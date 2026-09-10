@@ -42,6 +42,5 @@
 
 | 文档标题 | Visits | Stars | Last Commit |
 | :--- | :---: | :---: | :---: |
-| [ubuntu linux nanopi r3s 全局路由网关配置](https://gist.github.com/yHUJibXnPx/615f84b78ecf375f5ec4747011c29eae) | ![V](https://visitor-badge.laobi.icu/badge?page_id=yHUJibXnPx.gist.615f84b78ecf375f5ec4747011c29eae&left_text=%20) | ![S](https://img.shields.io/github/gist/stars/615f84b78ecf375f5ec4747011c29eae?style=for-the-badge&logo=%20&label=%20) | ![L](https://img.shields.io/github/gist/last-commit/615f84b78ecf375f5ec4747011c29eae?style=for-the-badge&logo=%20&label=%20) |
 
 [查看更多 Gists...](https://gist.github.com/yHUJibXnPx)
