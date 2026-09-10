@@ -32,9 +32,8 @@ PKGS = [
     "docker-arch-test",
 ]
 
-# 在这里配置 Gist (标题, ID)
+# 在这里配置 Gist ("标题", "ID"),
 GISTS = [
-    ("ubuntu linux nanopi r3s 全局路由网关配置.md", "615f84b78ecf375f5ec4747011c29eae"),
 ]
 
 
