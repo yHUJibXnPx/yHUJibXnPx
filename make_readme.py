@@ -20,6 +20,7 @@ REPOS = [
     "make-mihomo-envs",
     "make_sing-box_server_ubuntu",
     "safe_uninstall_app_script_for_macos",
+    "singbox-provision",
 ]
 
 # 在这里配置带有 Package 下载量的项目 (Repo Name)

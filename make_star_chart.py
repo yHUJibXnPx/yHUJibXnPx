@@ -45,6 +45,7 @@ CHARTS_CONFIG = [
             "make-mihomo-envs",
             "make_sing-box_server_ubuntu",
             "safe_uninstall_app_script_for_macos",
+            "singbox-provision",
         ]
     }
 ]
