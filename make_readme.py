@@ -7,6 +7,7 @@ USERNAME = "yHUJibXnPx"
 # 这些项目会自动加入到 Star History 趋势图中
 REPOS = [
     "BeautyFetcher",
+    "DivinationMaster",
     "docker-arch-pyenv-jupyter",
     "docker-arch-miniforge-jupyter",
     "docker-arch-resilio-sync",
