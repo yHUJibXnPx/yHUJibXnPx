@@ -32,6 +32,7 @@ CHARTS_CONFIG = [
         "title": f"All Projects Overview",
         "repos": [                               # 多项目对比
             "BeautyFetcher",
+            "DivinationMaster",
             "docker-arch-pyenv-jupyter",
             "docker-arch-miniforge-jupyter",
             "docker-arch-resilio-sync",
